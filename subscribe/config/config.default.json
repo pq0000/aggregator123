@@ -97,7 +97,7 @@
     "enable": true,
     "id": "d51852d8b18582ce5abe0686d6e11262",
     "token": "env:PUSH_TOKEN",
-    "filename": "merged-subscribe.txt",
+    "filename": "clash.yaml",
     "description": "Aggregator merged subscription", 
     "public": true
     }
